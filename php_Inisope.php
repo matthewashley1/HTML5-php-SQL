@@ -34,8 +34,6 @@ $result = $conn->query($sql);
 
 $field = $_POST["Search"];
 $name = $_POST["username"];
-$LastName;
-$FirstName;
 $Space = " ";
 	
 	echo "Database Search Results <br> <br> <br> <br> <br>";
